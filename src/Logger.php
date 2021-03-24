@@ -58,5 +58,5 @@ class Logger
         $text = 'LOG DEBUG: '.$message;
         file_put_contents($this->filePath, PHP_EOL .$text, FILE_APPEND);
     }
-
+     
 }
