@@ -1,0 +1,15 @@
+{
+    "name": "md/logger",
+    "authors": [
+        {
+            "name": "md2010",
+            "email": "mdamjanovic2010@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MD\\Logger\\": "src/"
+        }
+    },
+    "require": {}
+}
